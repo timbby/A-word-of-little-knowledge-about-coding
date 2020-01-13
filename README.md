@@ -8,5 +8,9 @@ Hope every knowledge can make you feel: 😯, it is this. Or: 😆, i know this.
 
 ### python
 
-- `hash(str)` in python2.x is stable. But in python3.x, it is related about process, which is differenf in different process.
+- `hash(str)` in python2.x is stable. But in python3.x, it is **related about process**, which is differenf in different process.
+
+### Others
+
+- Timestamp is without time zone. It means the total seconds(or milliseconds) from 1970-01-01 00:00:00 `at 0 time zone` to now.
 
