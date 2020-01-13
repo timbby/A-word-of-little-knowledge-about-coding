@@ -1,0 +1,12 @@
+# A word of little knowledge about coding
+
+A little single knowledge about coding.
+
+In out work or life, there are allways these scene: when you encounter a problem, you are exhausted and exhausted. Finally, you will realize that it just a single knowledge you don't know before. If knowing it before, even with a small impression, you can quickly discover the key point easily, without wasting a lot of time.
+
+Hope every knowledge can make you feel: 😯, it is this. Or: 😆, i know this.
+
+### python
+
+- `hash(str) ` in python2.x is stable. But in python3.x, it is related about process, which is differenf in different process.
+
