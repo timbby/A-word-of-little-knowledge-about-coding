@@ -8,5 +8,5 @@ Hope every knowledge can make you feel: 😯, it is this. Or: 😆, i know this.
 
 ### python
 
-- `hash(str) ` in python2.x is stable. But in python3.x, it is related about process, which is differenf in different process.
+- `hash(str)` in python2.x is stable. But in python3.x, it is related about process, which is differenf in different process.
 
