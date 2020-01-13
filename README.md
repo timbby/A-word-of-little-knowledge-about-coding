@@ -12,5 +12,5 @@ Hope every knowledge can make you feel: 😯, it is this. Or: 😆, i know this.
 
 ### Others
 
-- Timestamp is without time zone. It means the total seconds(or milliseconds) from 1970-01-01 00:00:00 `at 0 time zone` to now.
+- Timestamp is independent of time zone. It means the total seconds(or milliseconds) from 1970-01-01 00:00:00 `at 0 time zone` to now.
 
