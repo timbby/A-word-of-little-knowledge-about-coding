@@ -8,5 +8,5 @@
 
 ### python
 
-- python2中`hash(str)`结果是固定的，python3中`hash(str)`结果是与**进程相关**的，每个进程不一致。
+- python2中`hash(str)`结果是固定的，但是在python3中，它的结果是与**进程相关**的，每个进程不一致。
 
