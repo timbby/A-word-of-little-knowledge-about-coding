@@ -13,4 +13,7 @@ Hope every knowledge can make you feel: 😯, it is this. Or: 😆, i know this.
 ### Others
 
 - Timestamp is independent of time zone. It means the total seconds(or milliseconds) from 1970-01-01 00:00:00 `at 0 time zone` to now.
+- If encountered a small website which not often use, you can use chrome `Right-click menu->Use suggested password->Suggest password...` to generate a random passwod and save in chrome, in order not to use personal password.
+
+
 
